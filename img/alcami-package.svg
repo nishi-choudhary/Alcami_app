@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="400" viewBox="0 0 300 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="packageGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFFFFF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#F5F5F5;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <!-- Package body -->
+  <rect x="50" y="50" width="200" height="300" rx="10" ry="10" fill="url(#packageGradient)" stroke="#E6E6E6" stroke-width="2"/>
+  
+  <!-- Gold accents -->
+  <rect x="70" y="100" width="160" height="40" rx="5" ry="5" fill="#E6B94D" opacity="0.2"/>
+  <text x="150" y="125" font-family="Arial" font-size="24" font-weight="bold" fill="#E6B94D" text-anchor="middle">ALCAMI</text>
+  
+  <!-- 9 ELEMENTS text -->
+  <text x="150" y="170" font-family="Arial" font-size="12" fill="#666666" text-anchor="middle">9 ELEMENTS</text>
+  
+  <!-- Original text -->
+  <rect x="90" y="190" width="120" height="25" rx="5" ry="5" fill="#E6B94D" opacity="0.7"/>
+  <text x="150" y="207" font-family="Arial" font-size="14" font-weight="bold" fill="#333333" text-anchor="middle">ORIGINAL</text>
+  
+  <!-- Bottom icons -->
+  <circle cx="110" cy="250" r="10" fill="#E6E6E6"/>
+  <circle cx="150" cy="250" r="10" fill="#E6E6E6"/>
+  <circle cx="190" cy="250" r="10" fill="#E6E6E6"/>
+  
+  <!-- Bottom text -->
+  <text x="150" y="290" font-family="Arial" font-size="8" fill="#999999" text-anchor="middle">LIFE CHANGING BLEND</text>
+  
+  <!-- Bottom line -->
+  <line x1="90" y1="310" x2="210" y2="310" stroke="#E6E6E6" stroke-width="1"/>
+  
+  <!-- QR code placeholder -->
+  <rect x="130" y="320" width="40" height="40" fill="#E6E6E6"/>
+</svg>
